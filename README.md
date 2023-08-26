@@ -4,4 +4,6 @@ Projeto desenvolvido para a disciplina de Jogos Digitais 2022/2 do curso de Ciê
 
 Referência: [**GDD**](https://docs.google.com/document/d/1HXcrXma3RucmHhb--1RO4DIWHW98b3QCt6LiyAA9aDk/edit?usp=sharing) 
 
+Trailer: [**Trailer**](https://youtu.be/_lUDbWuBtcg)
+
 Detonado: [**Vídeo**](https://youtu.be/wqQMZ9dntgc)
